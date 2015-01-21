@@ -8,6 +8,6 @@ Welcome to my new post on Jekyll. On this blog I will be talking about all the t
 
 [Link to my neighbour's blog- Katherine](http://katie12.github.io)
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+![alttext](http://pixabay.com/p-394322/?no_redirect)
 
 Keep in touch for all of the new interesting things that I will be posting. No have no idea how many blahhhh I need to tell. People are going to be mind blow form it. Good luck!
