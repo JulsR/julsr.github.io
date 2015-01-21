@@ -4,7 +4,7 @@ title: Howdy World!
 ---
 
 Welcome to my new post on Jekyll. On this blog I will be talking about all the things that blahh trought my mind.
-[ Julissa Roa Portfolio] {www.julissaroa.co}
+[Julissa Roa Portfolio](www.julissaroa.co).
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
