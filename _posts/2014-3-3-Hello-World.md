@@ -9,5 +9,6 @@ Welcome to my new post on Jekyll. On this blog I will be talking about all the t
 [Link to my neighbour's blog- Katherine](http://katie12.github.io)
 
 ![Github logo](http://upload.wikimedia.org/wikipedia/commons/b/b3/GitHub.svg)
+![Image](https://www.flickr.com/photos/130820279@N02/15712852674/)
 
 Keep in touch for all of the new interesting things that I will be posting. No have no idea how many blahhhh I need to tell. People are going to be mind blow form it. Good luck!
