@@ -7,7 +7,7 @@ permalink: /portfolio/
 #My Portfolio
 
 
-###  Ilustration | Graphic Design | Web Design
+###  Ilustration |  Graphic Design  |  Web Design
 
 
 [![img1](https://farm8.staticflickr.com/7408/16252338358_a6a758e0a9_m.jpg)] ({{ site.baseurl }}/portfolioI)
