@@ -23,3 +23,11 @@ Design by Julissa Roa
 "Poster Design"  
 Design by Julissa Roa 
 - I just need some space
+
+
+![book cover design](https://farm8.staticflickr.com/7313/15820138833_3ea1369153.jpg)
+
+
+"The SeaWolf"  
+Design by Julissa Roa 
+- Book Cover
