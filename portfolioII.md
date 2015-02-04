@@ -4,10 +4,10 @@ layout: page
 
 # My Portfolio
 
-### Portfolio Piece #2
+### Graphic Design
 
-![idkrecipes](https://farm8.staticflickr.com/7500/16148585678_122a5b1e1e_o.png)
+![magazine spread](https://farm8.staticflickr.com/7366/16252705060_40d7062ae7_b.jpg)
 
-"IDKrecipes.com"  
-Website by Carlos Cardozo  
-- Art institute / Miami International University of Art & Design - API/AJAX Assignment in collaboration with with Julissa Roa
+"Magazine Spread Design"  
+Design by Julissa Roa 
+- Calling America: Hello? Hello? Hello? Hello?
