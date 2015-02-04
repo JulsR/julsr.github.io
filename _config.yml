@@ -19,15 +19,15 @@ avatar: https://farm9.staticflickr.com/8638/16148561040_99984acca5_q.jpg
 footer-links:
   dribbble: 
   email: julissa.roa@gmail.com
-  facebook: https://www.facebook.com/julissaroadesigner?ref=bookmarks
+  facebook: https://www.facebook.com/julissaroadesigner
   flickr: 
-  github: barryclark/jekyll-now
+  github: julsroa.me
   instagram: julissaroa 
-  linkedin: JulissaRoa
+  linkedin: https://www.linkedin.com/pub/julissa-roa/43/baa/81a
   pinterest: 
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
-  twitter: RoaJulissa
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  twitter: https://twitter.com/roajulissa
+  stackoverflow: users/4151912/julsr
 
 # Your disqus shortname, entering this will enable commenting on posts
 disqus: julsrgithubio
