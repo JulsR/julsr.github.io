@@ -4,10 +4,10 @@ layout: page
 
 # My Portfolio
 
-### Portfolio Piece #1
+### Illustration 
 
-![idkrecipes](https://farm8.staticflickr.com/7500/16148585678_122a5b1e1e_o.png)
+![airplanes](https://farm8.staticflickr.com/7408/16252338358_a6a758e0a9_c.jpg)
 
-"IDKrecipes.com"  
-Website by Carlos Cardozo  
-- Art institute / Miami International University of Art & Design - API/AJAX Assignment in collaboration with with Julissa Roa
+"Airplanes"  
+Illustration by Julissa Roa 
+- http://atraveladvisor.net/planes/
