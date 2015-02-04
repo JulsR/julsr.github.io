@@ -4,10 +4,10 @@ layout: page
 
 # My Portfolio
 
-### Portfolio Piece #2
+### Web Design
 
-![idkrecipes](https://farm8.staticflickr.com/7500/16148585678_122a5b1e1e_o.png)
+![fashionising.com](https://farm9.staticflickr.com/8563/15820142073_dd0b3bb9b9.jpg)
 
-"IDKrecipes.com"  
-Website by Carlos Cardozo  
-- Art institute / Miami International University of Art & Design - API/AJAX Assignment in collaboration with with Julissa Roa
+"Fashionising.com"  
+Website by Julissa Roa
+- Re-design mockup of the website "Fashionising.com"
