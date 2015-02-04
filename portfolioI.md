@@ -10,4 +10,4 @@ layout: page
 
 "Airplanes"  
 Illustration by Julissa Roa 
-- http://atraveladvisor.net/planes/
+  http://atraveladvisor.net/planes/
