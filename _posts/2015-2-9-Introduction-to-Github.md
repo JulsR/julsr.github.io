@@ -3,8 +3,8 @@ layout: post
 title: Introduction to Github
 ---
 
-Learning to used Github is very useful on the web industry not only for developers
-but also for those who need a repository to host their code. Github is a web-based Git 
+Learning to used Github is quite useful on the web industry not only for developers
+but also for those web users who need a repository to host their code. Github is a web-based Git 
 repository hosting service  that offers source management control and distributed version 
 control functionality of Git. Honestly so far I am not a big fan of the service, maybe because
 I still haven't understand the capacity of Github. For some beginner users the concept may be
