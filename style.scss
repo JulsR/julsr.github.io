@@ -254,7 +254,6 @@ nav {
 
 .post {
   blockquote {
-    background: $lightGray;	
     margin: 1.8em .8em;
     border-left: 2px solid $gray;
     padding: 0.1em 1em;
@@ -277,11 +276,11 @@ nav {
   margin-top: 50px;
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
-  background-color: $lightGray;
+  background-color: $black;
 }
 
 footer {
-  padding: 20px 0;
+  padding: 15px 0;
   text-align: center;
 }
 
