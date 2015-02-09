@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Transition: Fashion Styling to Web Developer
+title: Transition
 ---
 
 People always ask me, how come did you decided to study Web Design since is so different from Fashion?
