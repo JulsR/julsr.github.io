@@ -23,7 +23,7 @@ footer-links:
   flickr: 
   github: julsroa.me
   instagram: julissaroa 
-  linkedin: julissa-roa
+  linkedin: 
   pinterest: 
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
   twitter: RoaJulissa
@@ -37,7 +37,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: 
+url: http://julissaroa.co
 
 # If you're hosting your site at a Project repository on GitHub pages 
 # (http://yourusername.github.io/repository-name)
