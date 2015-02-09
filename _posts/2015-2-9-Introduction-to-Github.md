@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Transition - Fashion to Web Design
+title: Introduction to Github
 ---
 
 Learning to used Github is very useful on the web industry not only for developers
