@@ -2,6 +2,7 @@
 layout: post
 title: 2015 Marketing Trends
 ---
+![Imagemarketing](https://farm8.staticflickr.com/7378/16488879455_317e99d2f3_b.jpg)
 
 Marketing Trends that will prevail on 2015.
 
