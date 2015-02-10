@@ -3,7 +3,7 @@ layout: post
 title: Rules of Typography
 ---
 
-![Imagetypography](https://farm9.staticflickr.com/8673/16302670169_1e6b05b3e4_z.jpg)
+![Imagetypography](https://farm8.staticflickr.com/7443/16301240258_ca3e8a82d3_z.jpg)
 
 A web developer needs to understand the rules of graphic design and typography. 
 Since typography is the most common element on any website, it is very helpful to provide
