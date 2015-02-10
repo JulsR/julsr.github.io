@@ -18,7 +18,7 @@ html {
 }
 
 body {
-	background: $blue;
+	background: $darkBlue;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
@@ -74,7 +74,7 @@ a {
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $red;
+    color: $blue;
   }
 }
 
