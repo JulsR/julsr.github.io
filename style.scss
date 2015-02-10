@@ -18,7 +18,7 @@ html {
 }
 
 body {
-	background: $darkBlue;
+	background: $white;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
@@ -31,7 +31,6 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-	
   font-family: $helveticaNeue;
   color: $darkerGray;
   font-weight: bold;
@@ -152,7 +151,6 @@ img {
 //
 
 .wrapper-masthead {
-
   margin-bottom: 50px;
 }
 
@@ -217,14 +215,12 @@ nav {
   margin-top: 23px; // @TODO: Vertically middle align
   font-family: $helveticaNeue;
   font-size: 18px;
- 
 
   @include mobile {
     float: none;
     margin-top: 9px;
     display: block;
     font-size: 16px;
-    
   }
 
   a {
