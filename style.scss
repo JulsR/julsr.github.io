@@ -18,21 +18,20 @@ html {
 }
 
 body {
- background: $red;
+	background: $white;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
 
 .container {
-  background: $lightGray;
   margin: 0 auto;
-  max-width: 780px;
+  max-width: 740px;
   padding: 0 10px;
   width: 100%;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $lucidaConsole;
+  font-family: $helveticaNeue;
   color: $darkerGray;
   font-weight: bold;
 
@@ -177,7 +176,7 @@ img {
   }
 
   img {
-    border-radius: 8px;
+    border-radius: 5px;
   }
 }
 
@@ -276,11 +275,11 @@ nav {
   margin-top: 50px;
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
-  background-color: $black;
+  background-color: $lightGray;
 }
 
 footer {
-  padding: 15px 0;
+  padding: 20px 0;
   text-align: center;
 }
 
