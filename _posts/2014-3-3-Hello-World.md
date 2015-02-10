@@ -8,8 +8,6 @@ Welcome to my new post on Jekyll. On this blog I will be talking about all the t
 
 [Link to my neighbour's blog- Katherine](http://katie12.github.io)
 
-![Github logo](http://upload.wikimedia.org/wikipedia/commons/b/b3/GitHub.svg)
-
 > It’s all fun and games until someone breaks a link.
 — DEREK VIGIL
 
