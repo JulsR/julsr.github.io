@@ -2,6 +2,9 @@
 layout: post
 title: Introduction to Github
 ---
+![Github logo](http://upload.wikimedia.org/wikipedia/commons/b/b3/GitHub.svg)
+
+
 
 Learning to used Github is quite useful on the web industry not only for developers
 but also for those web users who need a repository to host their code. Github is a web-based Git 
