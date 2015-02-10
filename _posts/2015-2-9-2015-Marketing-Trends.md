@@ -4,6 +4,7 @@ title: 2015 Marketing Trends
 ---
 ![Imagemarketing](https://farm8.staticflickr.com/7378/16488879455_317e99d2f3_z.jpg)
 
+
 Marketing Trends that will prevail on 2015.
 
 Transparency  -
@@ -16,7 +17,7 @@ organize and developed strategies that supply the needs of the consumers.
 
 
 
-Hispanic agencies will go mainstream
+Hispanic agencies will go mainstream -
 
 The Hispanic community is going to grow by 2017 80% faster than the non-Hispanic. 
 In the U.S. population their is an increase in diversity, nowadays more of half of the nation
@@ -26,7 +27,7 @@ the need of the consumers because they understand their demographics.
 
 
 
-Globalization to Personalization
+Globalization to Personalization -
 
 The world itself is becoming more open and connected because of technology. 
 Today you can keep in touch with you family members from the other side of the world. 
@@ -34,3 +35,8 @@ Technology has broken all the boundaries in communication. But marketers had und
 that consumers need to feel exclusive. Marketing is becoming more individualized as consumers 
 resist homogenization. Companies have to a little bit to their old habits and create not only
 products but also a service that is personalized to each consumer.  
+
+
+
+
+
