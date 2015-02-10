@@ -46,8 +46,6 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-	background: $white;
-	padding: 15px;
   font-size: 30px;
   a {
     color: inherit;
@@ -154,7 +152,7 @@ img {
 //
 
 .wrapper-masthead {
-	background: $white;
+
   margin-bottom: 50px;
 }
 
@@ -215,11 +213,11 @@ img {
 }
 
 nav {
-  float: left;
+  float: right;
   margin-top: 23px; // @TODO: Vertically middle align
   font-family: $helveticaNeue;
   font-size: 18px;
-  color: $white;
+ 
 
   @include mobile {
     float: none;
@@ -263,7 +261,7 @@ nav {
     border-left: 2px solid $gray;
     padding: 0.1em 1em;
     color: $gray;
-    font-size: 20px;
+    font-size: 22px;
     font-style: italic;
   }
 
