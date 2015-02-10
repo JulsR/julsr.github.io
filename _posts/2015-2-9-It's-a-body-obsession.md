@@ -3,6 +3,8 @@ layout: post
 title: It’s a Body Obsession.
 ---
 
+![Imagebody](https://farm8.staticflickr.com/7417/16301546470_e948f9cb22_z.jpg)
+
 
 Rumors are that society today is being sexually bombarded. From the earliest years the message is ‘SEX SELLS’. 
 This sexual message is being promoted in advertising and all kinds of media. We are talking about a sex without 
