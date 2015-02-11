@@ -14,7 +14,7 @@ attention, after all we desired they read the content and browse through the web
 
 Rules of typography:
 
-1. Emphasis -
+ Emphasis -
 
  Is the exaggeration of words in a text with a font in a different style
 
@@ -30,7 +30,7 @@ DO NOT use more than one maybe two font styles and variants.
 
 
 
-2. Contrast -
+ Contrast -
 
 Typographic contrast is a deft and powerful weapon in your design arsenal.
 
@@ -51,7 +51,7 @@ For the body — serifed fonts are created to look and read better in large bodi
 05 Place two radically different fonts next to each other, adds an unexpected element.
 
 
-3. Balance - 
+ Balance - 
 
 An arrangement of one or more elements in the design, maintaining an equilibrium.
 
@@ -63,7 +63,7 @@ dynamic use of white space. This is particularly important if illustrations are 
 DON'T forget proportions. Decide which elements need to be emphasized. 
 
 
-4. Hierarchy -
+ Hierarchy -
 
 A  system for organizing type that establishes an order of importance. 
 
