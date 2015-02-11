@@ -46,6 +46,7 @@ DON'T mix them up! Typically, the way to go for the title is a bolder typeface, 
 
 
   Balance
+ ------------------------------------------------------------------------ 
  ----------------------------------------------------------------
  An arrangement of one or more elements in the design, maintaining an equilibrium.
 
