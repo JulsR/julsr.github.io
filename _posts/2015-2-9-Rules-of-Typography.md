@@ -14,7 +14,8 @@ attention, after all we desired they read the content and browse through the web
 
 Rules of typography:
 
- Emphasis - Is the exaggeration of words in a text with a font in a different style
+** Emphasis - Is the exaggeration of words in a text with a font in a different style
+----------------------------------------------------------------------------------------
 
 DO keep it simple.Make it big or very small and surrounded it with a lot of white space.
 
