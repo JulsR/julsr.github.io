@@ -46,8 +46,7 @@ DON'T mix them up! Typically, the way to go for the title is a bolder typeface, 
 
 
   Balance
- ------------------------------------------------------------------------ 
- ----------------------------------------------------------------
+---------------------------------------------------------------------------
  An arrangement of one or more elements in the design, maintaining an equilibrium.
 
 DO informal balance it creates a visual interest.One of the major advantages of an asymmetrical layout is that it allows for the more dynamic use of white space. This is particularly important if illustrations are included.
@@ -57,7 +56,7 @@ DON'T forget proportions. Decide which elements need to be emphasized.
 
 
   Hierarchy
- ---------------------------------------------------------------
+---------------------------------------------------------------------------------
  A  system for organizing type that establishes an order of importance. 
 
 DO  BLOW OUT! One character up so large that it bleeds off the page edges and then place the rest of the text in a much smaller size.
