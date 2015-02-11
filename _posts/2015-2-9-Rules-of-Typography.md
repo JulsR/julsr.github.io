@@ -25,6 +25,7 @@ DO NOT use more than one maybe two font styles and variants.
 
 
 
+
  Contrast - Typographic contrast is a deft and powerful weapon in your design arsenal.
 
 DO pair your fonts with thought.There are typefaces meant for titles, and typefaces meant for body. 
