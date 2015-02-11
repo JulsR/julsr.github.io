@@ -6,11 +6,6 @@ title: It’s a Body Obsession.
 ![Imagebody](https://farm8.staticflickr.com/7417/16301546470_e948f9cb22_z.jpg)
 
 
-Rumors are that society today is being sexually bombarded. From the earliest years the message is ‘SEX SELLS’. 
-This sexual message is being promoted in advertising and all kinds of media. We are talking about a sex without 
-the leavening of love or affection. No attachments, just feelings of desire and lust to the mundane. A desire to 
-be loved is one of the strongest emotions and in this modern society the meaning is being projected as a powerful 
-force producing intense wanting for an object, or circumstance fulfilling the emotions.
 
 Sex sells, it’s a great attention grabber, associating a product of desire or a basic human need to a source that 
 creates a lasting visual effect. The idea is to fabricate an illusion of our deepest dreams, a misinterpretation of a
