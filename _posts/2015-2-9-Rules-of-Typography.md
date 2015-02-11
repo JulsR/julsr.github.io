@@ -45,7 +45,7 @@ DON'T mix them up! Typically, the way to go for the title is a bolder typeface, 
 
 
 
- Balance
+  Balance
  ----------------------------------------------------------------
  An arrangement of one or more elements in the design, maintaining an equilibrium.
 
@@ -55,7 +55,7 @@ DON'T forget proportions. Decide which elements need to be emphasized.
 
 
 
- Hierarchy
+  Hierarchy
  ---------------------------------------------------------------
  A  system for organizing type that establishes an order of importance. 
 
