@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![logojulissa](https://farm8.staticflickr.com/7392/16252631908_4e8735e756.jpg)
+![logojulissa](https://farm9.staticflickr.com/8736/16209826113_1a3548bf0d_o.png)
 
 
 
