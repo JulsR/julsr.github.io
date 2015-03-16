@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Saltamonte Gal
+title: Saltamonte Gal (Buyers Persona)
 ---
 
 ![Imagemarketing](https://farm8.staticflickr.com/7609/16647460728_d16223a25f_o.jpg)
