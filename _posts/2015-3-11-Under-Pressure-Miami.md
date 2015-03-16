@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Under Pressure : Miami
+title: Under Pressure in Miami
 ---
 
 Miamians are really, really hot, and everyone knows it-including Miamians, it turns out.
