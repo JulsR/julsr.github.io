@@ -3,6 +3,8 @@ layout: post
 title: Under Pressure in Miami
 ---
 
+![Imagemarketing](https://farm8.staticflickr.com/7601/16828416241_d4bd291637_b.jpg)
+
 Miamians are really, really hot, and everyone knows it-including Miamians, it turns out.
 
 CNBC.com listed Miami as the third most stressfull city in America, but ironically is also consider to be the No.1
