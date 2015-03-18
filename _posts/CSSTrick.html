@@ -1,0 +1,87 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-9">
+<title> Resize CSS Trick</titel>
+</head>
+
+
+style {
+
+body {
+  background: url(http://cdn.css-tricks.com/wp-content/themes/CSS-Tricks-10/images/bg.png);
+}
+
+article {
+  background: white;
+  color: #111;
+  border: 20px solid #D6D5D5;
+  padding: 40px;
+  width: 80%;
+  max-width: 700px;
+  margin: 20px auto;
+}
+
+}
+
+<body>
+
+<link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700,400italic|Source+Code+Pro:400,700' rel='stylesheet' type='text/css'>
+
+<article>
+ 
+<div class="bar-time">December 5 2014</div>
+<h2>Resize</h2>
+
+<em class="explanation">The <strong>resize</strong> property is for controlling whether an element is able to be manually resized by the user. The most common example is a `<textarea>` which is some browsers (Firefox 4+, Chrome 1+, Safari 3+) is able to be resized by default. When resizeable, the textarea has a little UI handle in the lower right. Here it is with and without:
+
+
+<img src="https://farm9.staticflickr.com/8563/16662315720_1ebf45c440_o.png">
+
+
+But the resize property isn't limited to textareas, any area can have it.
+
+
+
+<strong>Weirdness: </strong>  
+Firefox (tested v10) will let you resize an element smaller than it's default. Chrome (tested 17) and Safari (tested 5.1) will not let you resize smaller, only larger (in both dimensions).
+
+
+
+
+<h3>Subheads are &lt;h3> tags</h3>
+
+They probably should be `<h2>` tags but again for legacy reasons they are not. h3's have a bunch of margin above them to set them apart. In the article code itself, put two line breaks above an h3.
+
+Breaking articles into sections with headers is a good idea. It just flows better and is easier to scan. It's probably best to put ID's on headers, but make them pretty obviously unique, like <code>id="article-namespace-section-2"</code>.
+
+
+
+
+
+<h3>The CSS (Example Header)</h3>
+
+Block quotes are like this:
+
+<blockquote>To live is to love or something.</blockquote>
+
+You don't need paragraph tags inside blockquotes unless they are more than one paragraph. Then put paragraph tags around both.
+
+
+
+
+</article>
+
+
+<script>
+// HTML in article should just be HTML, not escaped
+// CSS-Tricks doesn't do it exactly this way, but close enough.
+$("pre code").each(function() {
+   var content = $(this).html();
+   $(this).text(content);
+});
+
+</script>
+</body>
+
+</html>
