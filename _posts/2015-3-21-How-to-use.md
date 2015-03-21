@@ -1,0 +1,79 @@
+---
+layout: post
+title: How to use Re-touch an image with the Clone Stamp.
+---
+
+How to used the Clone Stamp Tool in Photoshop.
+
+Adobe Photoshop is software used as a pixel-base image editor. It composes raster images in multiple layers, 
+providing special effects services, such as backgrounds, masks and transparency. You may as well make some 
+adjustments with the brightness/contrast, color balance or the exposure of the image. These adjustments will
+change the style and aspect of the original image. On this how to I will be teaching the basics of "Clone Stamp" 
+a Photoshop Tool. With the clone stamp tool you can make some adjustments to the image like fix or eliminate things 
+out of the picture. These adjustments will change the style and the aspect of the original image. This tutorial will
+be focus on re-touching a self-image.
+
+We will be using Adobe Photoshop and a personal image of a model. Follow us step-by-step and in no time you will be a master!
+
+Step I.
+
+Open Photoshop and take one of your personal photos or go to google and type “unedited photography”, we can find unlimited 
+close up photos or how we call it today selfies. ! Drag it or click Command + O and open the image on Photoshop.
+(I have select one of my photographies, is an image for a fashion photo shoot).
+
+Step II.
+
+On this tutorial will be making some adjustments;
+
+-remove the eye bags
+-clean the skin bubbles on her face
+
+Is important to keep in mind that, when working with close up pictures you should not distort much the original image,
+unless that is the purpose. But is always fun to play a little bit with the adjustments, to provide a cinematic style 
+to the photo.
+
+ 
+
+Step III.
+
+Make a duplicate the photo, that way you will be able to see the changes apply to the edited photo. Make sure the 
+copy layer is selected. Double-clink on the layer and name it “Cloning Img”.
+
+Now let’s start working on the forehead with the “Clone Stamp Tool”, which is located on the Photoshop Toolbar.
+This tool allows you to clone a part of the picture you select and copy it onto another area. Afterwards choose a 
+Brush (shape & size ) and change the opacity to a minimum of 15%. Once select the default settings, let’s go ahead
+and used the Clone stamp tool to cover the skin bubbles and remove the eye bags.I am going to select a “Soft Round” brush
+style, because the borders are blurry and it will apply the copy area that I have selected in a smoother way.
+
+Step IV.
+
+Select the area you want to copy from and place the brush on the area you wish to duplicate.  
+Alt-click(Windows) or Option-click(Mac), the cursor automatically will change to a target. Click the exact 
+spot you want to start copying from and release them on the spot you are trying to cover/fix. And “X” will be 
+presented next to the brush, indicating the are from which the tool is cloning from. In my case I will select a 
+clean spot on the forehead and apply it onto the areas that have skin bubbles.
+
+Is important to pay attention to the direction and color of the light that is reflected on (in my case, the face). 
+To maintain the same lighting effect is necessary to graduated the opacity and flow of the brush when cloning a stamp 
+area. Also if necessary change the size of the brush, this will allow you flexibility on some particular areas.
+
+Gently I will start to move the brush through the forehead like if I am applying foundation makeup. I will not
+like to leave some parts uneven, and my goal is to have a clean and spotless skin.
+
+ Step V.
+
+The same process will be apply to the eye bags. In this area is better to used less opacity since they are dark circles. 
+Starting from the left to the right, continue to can change the size and flow while cloning. Once apply a select area
+onto another one, I recommended to clone the same duplicated area and again paste it into a new area. That way you will
+maintain the direction of the color and light effect. The X target will be closer or further from the brush depending 
+on the proximity of both the area you want to copy and the area you want to duplicate. Depending of the light, for some 
+areas is better to have the X further from the brush. 
+
+Step VI.
+
+It is optional to continue to used the clone stamp tool until you feel that all spots are even and cover. Remember every 
+photo is different and is up to you to apply the whatever style interests you. Don't forget to click on the original photo 
+and preview the differences and what a little cloning can to do cover the imperfections.
+
+Thanks for your attention, hope the tutorial was  helpful. Start practicing some more and you'll become a PRO.
+Until next time!!
