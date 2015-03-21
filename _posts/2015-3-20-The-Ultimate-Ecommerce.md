@@ -46,7 +46,7 @@ Magento is the eCommerce software and platform trusted by the world's leading br
 
 ![Image](https://farm8.staticflickr.com/7596/16697328119_661582479a_c.jpg)
 
-A one last piece of advice is that even though there are a lot of free open-source platforms out there building a online store can be time-consuming. So is necessary to take youR time and choose correctly the e-commerce builder.
+A one last piece of advice is that, even though there are a lot of free open-source platforms out there building a online store can be time-consuming. So is necessary to take your time and choose correctly the e-commerce builder. Keep on checking for new features that are being offer and update your online storefront.
 
 
 
