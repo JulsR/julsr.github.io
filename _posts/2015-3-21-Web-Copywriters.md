@@ -3,7 +3,7 @@ layout: post
 title: Web Copywriters, earn how much?
 ---
 
-1[Image] (https://farm8.staticflickr.com/7619/16262676964_d919375bd5_c.jpg)
+![Image] (https://farm8.staticflickr.com/7619/16262676964_d919375bd5_c.jpg)
 
 
 The Web copywriter make an average salary of $55.9K to $65.6K (Source: U.S. Bureau of Labor Statistics 2013) depending the years of experience. Their job is to write articles, advertisements and informational as well as work closely with creative designers and Web developers. The idea is to enhance the company's Internet presence by creating content for all the existing public-facing web properties and motivate the users to take action. Web copywriters may practice their skills with a variety of businesses and clients that intend to create enticing user-friendly language and easy-to-read copy that speaks directly to the website visitors.
@@ -13,4 +13,4 @@ This position requires more technical than creative copywriting skills and a str
 The Web copywriter's contribution to a company may sound simple, but the role takes a lot of dedication and passion. The goal will never cease to change or evolve, but is this role its works with a positive outlook  and a belief in the power of content to transform the customer experience, we are able to say that the goal have being achieved.
 
  
-Image via [Image](http://www.sozocopywriting.com/wp-content/uploads/2012/03/copywriter-typing-documents.jpg)Copywriters
+Image via [Copywriters Image](http://www.sozocopywriting.com/wp-content/uploads/2012/03/copywriter-typing-documents.jpg)Copywriters
