@@ -24,6 +24,6 @@ DO & KNOW
     
 Other Interactive Media SKills : Illustration, Photography, Animation ...
 
-### Contact me
+### Dont't be shy. Say Hello!
 
 [julissaroa.w@gmail.com](mailto:julissaroa.w@gmail.com)
