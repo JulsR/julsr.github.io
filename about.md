@@ -10,6 +10,7 @@ I am a multilingual tourist from the Dominican Republic. Passionate about art, l
 
 
 DO & KNOW
+
     - Web Design & Development
     - HTML5, CSS, Wordpress, SEO
     - Javascript, JQuery, PHP
