@@ -16,6 +16,7 @@ DO & KNOW
     - Javascript, JQuery, PHP
     
    Adobe Creative Suite
+   
     - Photoshop, Ilustrator, Indesign
     - Dreamweaver
     - Flash, After Effects, Premiere
